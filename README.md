@@ -1,1 +1,1 @@
-# apps.ketaru.com
+# https://apps.ketaru.com
